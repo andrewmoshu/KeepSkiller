@@ -1,0 +1,7 @@
+C:\Users\Gon\source\repos\KeepSkiller\KeepSkiller\bin\Debug\KeepSkiller.exe.config
+C:\Users\Gon\source\repos\KeepSkiller\KeepSkiller\bin\Debug\KeepSkiller.exe
+C:\Users\Gon\source\repos\KeepSkiller\KeepSkiller\bin\Debug\KeepSkiller.pdb
+C:\Users\Gon\source\repos\KeepSkiller\KeepSkiller\obj\Debug\KeepSkiller.csprojAssemblyReference.cache
+C:\Users\Gon\source\repos\KeepSkiller\KeepSkiller\obj\Debug\KeepSkiller.csproj.CoreCompileInputs.cache
+C:\Users\Gon\source\repos\KeepSkiller\KeepSkiller\obj\Debug\KeepSkiller.exe
+C:\Users\Gon\source\repos\KeepSkiller\KeepSkiller\obj\Debug\KeepSkiller.pdb
